@@ -1,4 +1,25 @@
+/*
 div {
     border: solid black;
     margin-bottom: 4px;
+}
+*/
+
+.demo-content {
+    padding: 15px;
+    background: gray;
+    border: solid black;
+}
+
+.bg-alt {
+    background: green;
+}
+
+.main-content {
+    min-height: 230px;
+}
+
+.sidebar-content {
+    min-height: 100px;
+    margin-bottom: 30px;
 }
