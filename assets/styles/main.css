@@ -10,3 +10,10 @@
 .items {
     border: solid black;
 }
+
+.cards {
+    display: flex;
+    justify-content: center !important;
+    align-items: center;
+    text-align: center;
+}
