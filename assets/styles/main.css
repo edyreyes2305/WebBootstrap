@@ -17,3 +17,18 @@
     align-items: center;
     text-align: center;
 }
+
+.cardStyle {
+    border: solid black;
+    max-height: 25rem;
+}
+
+.cardStyle img {
+    width: 200px;
+    height: 200px;
+}
+
+.cardStyle a {
+    margin: 0 auto;
+}
+
