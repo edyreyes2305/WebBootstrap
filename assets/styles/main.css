@@ -20,7 +20,7 @@
 
 .cardStyle {
     border: solid black;
-    max-height: 25rem;
+    max-height: 26rem;
 }
 
 .cardStyle img {
@@ -28,7 +28,5 @@
     height: 200px;
 }
 
-.cardStyle a {
-    margin: 0 auto;
-}
+
 
