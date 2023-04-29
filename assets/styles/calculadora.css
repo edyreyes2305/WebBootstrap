@@ -1,7 +1,34 @@
+body {
+    background-color: rgb(176, 246, 246);
+    
+}
+
 .borde {
     border: solid black;
+    border-radius: 25px;
+    background-color: gray;
 }
 
 .base {
     max-width: 400px;
+}
+.caja {
+    
+    display: block;
+    border: solid black;
+    margin-top: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 20px;
+    width: 200px;
+    height: 70px;
+    overflow: auto;
+    background-color: white;
+    border-radius: 10px;
+    line-height: 10px;
+}
+.resultado2 {
+    margin-top: 20px;
+    font-size: 30px;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
